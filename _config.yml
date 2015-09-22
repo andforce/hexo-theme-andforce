@@ -1,7 +1,10 @@
 # head
 menu:
-  主页: /
+  #主页: /
   文章: /archives
+  微博: http://weibo.com/andforce
+  GitHub: https://github.com/andforce
+  Bintray: https://bintray.com/andforce
 rss: /atom.xml
 favicon: /favicon.png
 
