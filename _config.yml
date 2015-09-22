@@ -1,6 +1,6 @@
 # head
 menu:
-  Home: /
+  主页: /
   Archives: /archives
 rss: /atom.xml
 favicon: /favicon.png
