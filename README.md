@@ -9,12 +9,17 @@
 **安装**
 ``` script
 $ npm install hexo-renderer-jade --save
-$ git git@github.com:andforce/hexo-theme-andforce.git themes/andforce
+$ git https://github.com/andforce/hexo-theme-andforce.git themes/andforce
 ```
 **启用主题**
 编辑博客根目录下的`_config.yml`,把`theme`配置成`andforce`:
 ``` script
 theme: andforce 
+```
+**更新**
+``` script
+cd themes/andforce
+git pull
 ```
 ## 支持的浏览器版本
 - IE 8+
