@@ -1,28 +1,25 @@
 # Hexo-Theme-Andforce
 
-![](http://7xn2f9.com1.z0.glb.clouddn.com/theme_screenshot.png)
+![hexo-theme-andforce](http://7xn2f9.com1.z0.glb.clouddn.com/theme_screenshot.png)
 
-次主题基于[Strict](https://github.com/17/hexo-theme-strict)二次开发的
+此主题是基于[Strict](https://github.com/17/hexo-theme-strict)二次开发的
 
 ## Installation
 
 **安装**
-```
+``` script
 $ npm install hexo-renderer-jade --save
-$ git clone git@github.com:unmric/hexo-theme-strict.git themes/andforce
+$ git git@github.com:andforce/hexo-theme-andforce.git themes/andforce
 ```
 
-**Enable**
+**启用主题**
 
-Modify `theme` setting in `_config.yml` to `andforce`.
-
-**Update**
-```
-cd themes/andforce
-git pull
+编辑博客根目录下的`_config.yml`,把`theme`配置成`andforce`:
+``` script
+theme: andforce 
 ```
 
-## Browser Support
+## 支持的浏览器版本
 - IE 8+
 - Latest Stable: Firefox, Chrome, Safari
 
