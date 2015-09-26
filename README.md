@@ -1,24 +1,24 @@
-# Hexo-Theme-Strict
+# Hexo-Theme-Andforce
 
-![Hexo-Theme-Strict](http://i.imgur.com/A0cKWPh.png)
+![](http://7xn2f9.com1.z0.glb.clouddn.com/theme_screenshot.png)
 
-Strict 是一个简洁的 hexo 主题, 它的配色来自默认主题 [landscape](https://github.com/hexojs/hexo-theme-landscape).
+次主题基于[Strict](https://github.com/17/hexo-theme-strict)二次开发的
 
 ## Installation
 
-**Install**
+**安装**
 ```
 $ npm install hexo-renderer-jade --save
-$ git clone git@github.com:unmric/hexo-theme-strict.git themes/strict
+$ git clone git@github.com:unmric/hexo-theme-strict.git themes/andforce
 ```
 
 **Enable**
 
-Modify `theme` setting in `_config.yml` to `strict`.
+Modify `theme` setting in `_config.yml` to `andforce`.
 
 **Update**
 ```
-cd themes/strict
+cd themes/andforce
 git pull
 ```
 
