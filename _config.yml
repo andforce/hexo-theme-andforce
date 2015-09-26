@@ -2,9 +2,13 @@
 menu:
   #主页: /
   文章: /archives
+  # 可以删除或者换成你自己的
   微博: http://weibo.com/andforce
+  # 可以删除或者换成你自己的
   GitHub: https://github.com/andforce
+  # 可以删除或者换成你自己的
   Bintray: https://bintray.com/andforce
+
 rss: /atom.xml
 favicon: /favicon.png
 
@@ -14,5 +18,5 @@ excerpt_link: READ MORE
 comment_link: 0 COMMENTS
 
 # foot
-# themes_mata: ' ❤ Theme by <a href="http://unmric.com" target="_blank">unmric</a>'
+themes_mata: ' Theme by <a href="httphttps://github.com/andforce/hexo-theme-andforce" >andforce</a>'
 google_analytics:
