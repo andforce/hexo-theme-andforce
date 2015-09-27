@@ -1,6 +1,6 @@
 # Hexo-Theme-Andforce
 
-![hexo-theme-andforce](http://7xn2f9.com1.z0.glb.clouddn.com/theme_screenshot.png)
+![hexo-theme-andforce](http://7xn2f9.com1.z0.glb.clouddn.com/theme-demo.png)
 
 此主题是基于[Strict](https://github.com/17/hexo-theme-strict)二次开发的
 
