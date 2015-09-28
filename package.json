@@ -1,7 +1,11 @@
 {
-  "name": "Strict",
-  "version": "0.1.1",
+  "name": "andforce",
+  "version": "0.1.2",
   "description": "A clean, minimal and responsive theme for hexo",
-  "author": "unmric",
-  "license": "MIT"
+  "author": "andforce",
+  "license": "MIT",
+  "dependencies": {
+    "hexo-renderer-jade": "*",
+    "hexo-renderer-stylus": "*"
+  }
 }
