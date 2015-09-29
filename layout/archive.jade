@@ -8,8 +8,7 @@ block main
     -var year = post.date.year()
     -if(time != year){
       -if(time){
-        h2.archive-title
-          = year
+        h2.archive-title= year
       -}
       -time = year
     -}
@@ -17,5 +16,4 @@ block main
   -})
 
 block head
-  title
-    = 'Archives - ' + config.title
+  title= 'Archives - ' + config.title
