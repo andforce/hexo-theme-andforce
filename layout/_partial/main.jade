@@ -1,12 +1,9 @@
 doctype html
 html
   head
-    include header
+    include head
   body
-    header.head
-      h1.head-title.u-fl: a(href = config.root)
-        = config.title
-      include nav
+    include header
     main.main
       block main
     footer.foot
